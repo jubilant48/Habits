@@ -30,6 +30,6 @@
 
 ## How to launch the project
 
-#####To start the project, you must first start the local server. In the "Habits" folder you will find the server startup application "HabitServer".  Start the server application and click on the start button in the "Server" section and the "Simulation" section. Then start the Habits application.
+##### To start the project, you must first start the local server. In the "Habits" folder you will find the server startup application "HabitServer".  Start the server application and click on the start button in the "Server" section and the "Simulation" section. Then start the Habits application.
 
 
